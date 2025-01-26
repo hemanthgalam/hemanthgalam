@@ -1,5 +1,10 @@
-## Hi there 👋
+<h2 align="center">Hi 👋! My name is Hemanth and I'm a Master's Student and a Software Developer passionate about AI.</h2>
 
+###
+
+<p align="left">- 🔭 I’m currently working with LLM's and GenAi Agents<br>- 🌱 I’m presently learning Nvidia Omniverse<br>- <br>- 📫 How to reach me: hemanthkumargalam@gmail.com <br>- 😄 Pronouns: He/His <br>- ⚡ Fun fact: Newton never got struck by an apple (its a myth)</p>
+
+###
 <!--
 **hemanthgalam/hemanthgalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hemanthgalam?cardType=level&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)
+
+![hemanthgalam's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthgalam&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
