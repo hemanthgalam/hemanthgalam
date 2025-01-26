@@ -3,6 +3,10 @@
 I'm a Master's Student and a Software Developer passionate about AI
 ###
 
+**Profile Visitors:** 
+
+![](https://komarev.com/ghpvc/?username=hemanthgalam&style=flat-square)
+
 🌱 **I’m currently exploring:** Generative AI
 
 🔭 **I’m currently working on:** Building applications with Generative AI
@@ -40,6 +44,8 @@ Here are some ideas to get you started:
 | Pycharm | VSCode | GoogleColab | Jupyter Notebook | Github | Gitlab | Bitbucket |
 
 | AWS | Data Analysis | Docker
+
+<img src="https://raw.githubusercontent.com/binary-amigo/binary-amigo/output/snake.svg" alt="Snake animation" />
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hemanthgalam?cardType=level&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)
 
