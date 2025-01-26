@@ -32,19 +32,14 @@ Here are some ideas to get you started:
 
 
 | Python | Typescript | Javascript | Ruby | | HTML | CSS |
-| :---: | :---: | :---: | :---: | :---: |
 
 | PostgresSQL | SQL | PGVector
-| :---: | :---: | :---: | :---: | :---: |
 
 | Pytorch | Numpy  | Pandas | Tensorflow | OpenCV | Matplotlib |
-| :---: | :---: | :---: | :---: | :---: |
 
 | Pycharm | VSCode | GoogleColab | Jupyter Notebook | Github | Gitlab | Bitbucket |
-| :---: | :---: | :---: | :---: | :---: |
 
 | AWS | Data Analysis | Docker
-| :---: | :---: | :---: | :---: | :---: |
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hemanthgalam?cardType=level&theme=github-dark&preferLogin=true)](https://git.io/awesome-stats-card)
 
