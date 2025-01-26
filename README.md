@@ -1,3 +1,5 @@
+<img align="right" alt="GIF" src="https://github.com/bhav09/bhav09/blob/master/gif.gif" width="360"/>
+
 <h2 align="center">Hi 👋! My name is Hemanth </h2>
 
 I'm a Master's Student and a Software Developer passionate about AI
